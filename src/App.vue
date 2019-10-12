@@ -1,7 +1,7 @@
 <template>
 	<div class="app-container">
 		<!--顶部Header区域-->
-		<mt-header fixed title="VUE-webpack 内容管理系统">
+		<mt-header fixed title="新闻-商城综合项目">
 			  <span slot="left" @click="goBack" v-show="flag">
 			    <mt-button icon="back">返回</mt-button>
 			  </span>
